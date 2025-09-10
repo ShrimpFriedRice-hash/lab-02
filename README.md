@@ -9,7 +9,7 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-`N/A`
+(https://stackoverflow.com/questions/4709870/setonitemclicklistener-on-custom-listview)
 
 ## Verbal Collaboration
 
