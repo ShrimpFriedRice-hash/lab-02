@@ -9,11 +9,11 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-(https://stackoverflow.com/questions/4709870/setonitemclicklistener-on-custom-listview)
+(https://stackoverflow.com/questions/4709870/setonitemclicklistener-on-custom-listview) I used this to figure out how to intialize the onItemClickListener
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
 | `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `None` | `N/A`  |
